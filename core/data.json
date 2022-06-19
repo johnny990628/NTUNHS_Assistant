@@ -1,0 +1,817 @@
+{
+    "TodayCourses": [
+        {
+            "Name": "人工智慧",
+            "Time": "13:40~16:30",
+            "Place": "B210",
+            "Period": "6~8",
+            "Teacher": "祝國忠,張天祐,林良憲"
+        },
+        {
+            "Name": "研究概論",
+            "Time": "09:10~12:00",
+            "Place": "F601",
+            "Period": "2~4",
+            "Teacher": "洪論評"
+        },
+        {
+            "Name": "進階網路程式設計",
+            "Time": "12:40~15:30",
+            "Place": "B210",
+            "Period": "5~7",
+            "Teacher": "蔡坤孝"
+        },
+        {
+            "Name": "體育-排球1",
+            "Time": "10:10~12:00",
+            "Place": "",
+            "Period": "3~4",
+            "Teacher": "簡名豪"
+        }
+    ],
+    "Courses": [
+        {
+            "Name": "系統分析與設計",
+            "FullCode": "221400132013B0",
+            "Place": "B210",
+            "Day": "1",
+            "Period": "5~7",
+            "Credit": "3",
+            "Type": "必(系)",
+            "Teacher": "連中岳",
+            "Other": "修課限制：本系四技一般生大三以上、外系四技一般生大三以上、本所（研究生下修，不計入畢業學分）",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "12:40~15:30",
+            "startPeriod": 5
+        },
+        {
+            "Name": "體育-排球1",
+            "FullCode": "111401720013A0",
+            "Place": "",
+            "Day": "2",
+            "Period": "3~4",
+            "Credit": "0",
+            "Type": "必(通)",
+            "Teacher": "簡名豪",
+            "Other": "1.第一階段志願選，僅由護四二C、護四三AB互相跨班選課。\n2.第二階段加退選，開放全校二技一般生及四技二年級(含)以上一般生選課。\n3.上課地點請洽體育室，一學期至多修習2門必修體育。",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "10:10~12:00",
+            "startPeriod": 3
+        },
+        {
+            "Name": "進階網路程式設計",
+            "FullCode": "22140119901333",
+            "Place": "B210",
+            "Day": "2",
+            "Period": "5~7",
+            "Credit": "3",
+            "Type": "選(系)",
+            "Teacher": "蔡坤孝",
+            "Other": "修課限制：本系四技一般生大三以上、外系四技一般生大三以上、本所（研究生下修，不計入畢業學分）",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "12:40~15:30",
+            "startPeriod": 5
+        },
+        {
+            "Name": "當代藝術導論",
+            "FullCode": "221400030013B0",
+            "Place": "F402",
+            "Day": "3",
+            "Period": "6~7",
+            "Credit": "2",
+            "Type": "必(通)",
+            "Teacher": "梁昭玉",
+            "Other": "1.第二階段加退選開放修習「哲學與人生/邏輯概論」課程之學生及重修生互相跨班選課。\n2.全部網路選課，無紙本加選。\n3.因轉學轉系或修習雙聯學位同學如欲提早修課，經中心同意後於第三階段開放其選課，名單會於第二階段選課結束後送交教務處。",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "13:40~15:30",
+            "startPeriod": 6
+        },
+        {
+            "Name": "資訊網路概論",
+            "FullCode": "221400062013B0",
+            "Place": "B210",
+            "Day": "4",
+            "Period": "2~4",
+            "Credit": "3",
+            "Type": "必(系)",
+            "Teacher": "陳彥宏",
+            "Other": "修課限制：本系四技一般生大三以上、外系四技一般生大三以上、本所（研究生下修，不計入畢業學分）",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "09:10~12:00",
+            "startPeriod": 2
+        },
+        {
+            "Name": "研究概論",
+            "FullCode": "221400058013B0",
+            "Place": "F601",
+            "Day": "5",
+            "Period": "2~4",
+            "Credit": "3",
+            "Type": "必(系)",
+            "Teacher": "洪論評",
+            "Other": "修課限制：本系四技一般生大三以上、外系四技一般生大三以上、本所（研究生下修，不計入畢業學分）",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "09:10~12:00",
+            "startPeriod": 2
+        },
+        {
+            "Name": "人工智慧",
+            "FullCode": "22140022901332",
+            "Place": "B210",
+            "Day": "5",
+            "Period": "6~8",
+            "Credit": "3",
+            "Type": "選(系)",
+            "Teacher": "祝國忠,張天祐,林良憲",
+            "Other": "修課限制：本系四技一般生大三以上、外系四技一般生大三以上、本所（研究生下修，不計入畢業學分）",
+            "takeStatu": "一般",
+            "conflictStatu": "<span class='red'></span>",
+            "Time": "13:40~16:30",
+            "startPeriod": 6
+        }
+    ],
+    "HistoryScores": {
+        "historyScores": [
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4231F472 國文二",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "80.00",
+                "courseNormalId": "211400001011A0",
+                "courseTeacher": "魏伯全Po-Chuan Wei",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4231F502 進階英文",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "78.00",
+                "courseNormalId": "21140022401121",
+                "courseTeacher": "文英YING WEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4231F532 英語聽講練習三",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "1 ",
+                "Down_Score": "83.00",
+                "courseNormalId": "21140105901121",
+                "courseTeacher": "文英YING WEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4231F571 英文二",
+                "Up_Credit": "2 ",
+                "Up_Score": "70.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "21140105701121",
+                "courseTeacher": "文英YING WEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4231F581 英語聽講練習二",
+                "Up_Credit": "1 ",
+                "Up_Score": "79.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "21140105801121",
+                "courseTeacher": "文英YING WEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "44010521 操行",
+                "Up_Credit": "0 ",
+                "Up_Score": "88.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "haveStoredScore": false
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "44010522 操行",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "0 ",
+                "Down_Score": "87.00",
+                "haveStoredScore": false
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401F292 體育(二)",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "0 ",
+                "Down_Score": "90.00",
+                "courseNormalId": "221400012011B0",
+                "courseTeacher": "鄭俊雄Chun-Hsiung Cheng",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401F302 環境教育",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "90.00",
+                "courseNormalId": "221400021011B0",
+                "courseTeacher": "林和駿Ho-Jiunn Lin",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401F351 國文一",
+                "Up_Credit": "2 ",
+                "Up_Score": "67.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400000011A0",
+                "courseTeacher": "謝婉馨Wan-Hsin Hsieh",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401F361 體育(一)",
+                "Up_Credit": "0 ",
+                "Up_Score": "76.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400011011B0",
+                "courseTeacher": "趙曜Yao Chao",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401F371 資訊素養與網路運用",
+                "Up_Credit": "2 ",
+                "Up_Score": "70.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400213011B0",
+                "courseTeacher": "張顯洋Hsien-Yang Chang",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401F381 藝術文化史",
+                "Up_Credit": "2 ",
+                "Up_Score": "70.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400027011B0",
+                "courseTeacher": "翁立美Li-Mei Weng",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q211 企業概論",
+                "Up_Credit": "3 ",
+                "Up_Score": "60.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400059011B0",
+                "courseTeacher": "林東正TUNG-CHENG LIN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q221 微積分",
+                "Up_Credit": "3 ",
+                "Up_Score": "78.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400075011B0",
+                "courseTeacher": "江蔚文WEY-WEN JIANG",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q231 程式設計",
+                "Up_Credit": "3 ",
+                "Up_Score": "79.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400124011B0",
+                "courseTeacher": "陳彥宏YEN-HUNG CHEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q322 服務學習",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "0 ",
+                "Down_Score": "85.00",
+                "courseNormalId": "221400033011B0",
+                "courseTeacher": "楊劭為SHAO-WEI YANG",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q332 統計學",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "80.00",
+                "courseNormalId": "221400047011B0",
+                "courseTeacher": "林東正TUNG-CHENG LIN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q342 資訊管理概論",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "77.00",
+                "courseNormalId": "221400060011B0",
+                "courseTeacher": "杜清敏CHING-MIIN DUH",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q352 多媒體製作與應用",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "90.00",
+                "courseNormalId": "221400118011B0",
+                "courseTeacher": "吳建樺Chien-Hua Wu",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4401Q362 JAVA程式語言入門",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "86.00",
+                "courseNormalId": "221401200011B0",
+                "courseTeacher": "饒孝先Hsiao-Hsien  Rau",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "必修",
+                "Course": "4661Q272 健康科技導論",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "91.00",
+                "courseNormalId": "231401621011A0",
+                "courseTeacher": "陳建和CHIENHO CHEN,徐建業CHIEN-YEH HSU,楊劭為SHAO-WEI YANG,湯幸芬HSING-FEN TANG,江蔚文WEY-WEN JIANG,張博雅PO-YA CHANG,方文熙WEN-SHI DAVID FANG,周歆凱Hsin-Kai Chou,翁仕彥Shih-Yen Weng,郭方琳FANG-LIN KUO",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "108",
+                "Type": "選修",
+                "Course": "4701Z081 園藝治療概論",
+                "Up_Credit": "2 ",
+                "Up_Score": "81.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "13140110701110",
+                "courseTeacher": "藍婉齡Wan-Ling Lan",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4232F331 職場英文",
+                "Up_Credit": "2 ",
+                "Up_Score": "70.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "21140106101221",
+                "courseTeacher": "薛慧儀Hui-yi Hsueh",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4302F082 體育(四)",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "0 ",
+                "Down_Score": "93.00",
+                "courseNormalId": "311400014012A0",
+                "courseTeacher": "吳承螢Cheng-Ying Wu",
+                "haveStoredScore": false
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "44020521 操行",
+                "Up_Credit": "0 ",
+                "Up_Score": "85.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "haveStoredScore": false
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "44020522 操行",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "0 ",
+                "Down_Score": "85.00",
+                "haveStoredScore": false
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402F091 體育(三)",
+                "Up_Credit": "0 ",
+                "Up_Score": "82.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400013012B0",
+                "courseTeacher": "田政文CHENG-WEN TIAN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4642F152 法律倫理與生活",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "2 ",
+                "Down_Score": "92.00",
+                "courseNormalId": "251400024012A0",
+                "courseTeacher": "吳大椿Ta-Chun Wu",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q222 作業系統",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "94.00",
+                "courseNormalId": "221400080012B0",
+                "courseTeacher": "陳彥宏YEN-HUNG CHEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q232 資料庫管理系統",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "75.00",
+                "courseNormalId": "221400133012B0",
+                "courseTeacher": "連中岳CHUNG-YUEH LIEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q242 資料結構",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "84.00",
+                "courseNormalId": "221400145012B0",
+                "courseTeacher": "林良憲LIANG-HSIEN LIN",
+                "haveStoredScore": false
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q361 會計學",
+                "Up_Credit": "3 ",
+                "Up_Score": "68.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400045012A1",
+                "courseTeacher": "林東正TUNG-CHENG LIN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q381 醫療資訊概論",
+                "Up_Credit": "3 ",
+                "Up_Score": "71.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400061012B0",
+                "courseTeacher": "杜清敏CHING-MIIN DUH",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q391 物件導向程式設計",
+                "Up_Credit": "3 ",
+                "Up_Score": "90.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221400125012B0",
+                "courseTeacher": "連中岳CHUNG-YUEH LIEN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "必修",
+                "Course": "4402Q411 R語言統計",
+                "Up_Credit": "2 ",
+                "Up_Score": "67.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "221401523012B2",
+                "courseTeacher": "林東正TUNG-CHENG LIN",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "選修",
+                "Course": "4402W111 電腦軟體整合應用",
+                "Up_Credit": "2 ",
+                "Up_Score": "80.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "22140002201280",
+                "courseTeacher": "王正航Cheng-Hang Wang",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "選修",
+                "Course": "4402W121 全民國防",
+                "Up_Credit": "2 ",
+                "Up_Score": "82.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "22140160601281",
+                "courseTeacher": "陳品如CHEN PINJU",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "選修",
+                "Course": "4402Z181 健康照護資料處理",
+                "Up_Credit": "3 ",
+                "Up_Score": "60.00",
+                "Down_Credit": "",
+                "Down_Score": "",
+                "courseNormalId": "22140014801220",
+                "courseTeacher": "楊劭為SHAO-WEI YANG,常傳訓Chuan-Hsun Chang",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "選修",
+                "Course": "4402Z322 網路程式設計",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "89.00",
+                "courseNormalId": "22140013101222",
+                "courseTeacher": "蔡坤孝Kun-Hsiao Tsai",
+                "haveStoredScore": true
+            },
+            {
+                "Sem": "109",
+                "Type": "選修",
+                "Course": "4402Z352 Python程式設計",
+                "Up_Credit": "",
+                "Up_Score": "",
+                "Down_Credit": "3 ",
+                "Down_Score": "92.00",
+                "courseNormalId": "22140161301225",
+                "courseTeacher": "陳彥宏YEN-HUNG CHEN",
+                "haveStoredScore": true
+            }
+        ],
+        "historyScoresRanks": [
+            {
+                "title": " 實得學分與平均成績 ",
+                "Up_Credit": "20",
+                "Up_Score": "72.30",
+                "Down_Credit": "19",
+                "Down_Score": "83.68"
+            },
+            {
+                "title": " 實得學分與平均成績 ",
+                "Up_Credit": "20",
+                "Up_Score": "73.25",
+                "Down_Credit": "17",
+                "Down_Score": "87.41"
+            },
+            {
+                "title": " 累計實得學分 ",
+                "Up_Credit": "76"
+            },
+            {
+                "title": " 累計總平均 ",
+                "Up_Credit": "78.77"
+            },
+            {
+                "title": " 班級（440432）累計排名 ",
+                "Up_Credit": "25"
+            },
+            {
+                "title": " 班級排名前百分比 ",
+                "Up_Credit": "65.79(%)"
+            }
+        ],
+        "sems": [
+            {
+                "Sem": "108"
+            },
+            {
+                "Sem": "109"
+            }
+        ],
+        "GPA": "3.32"
+    },
+    "LearnMap": {
+        "creditObject": {
+            "creditsRequirementForGraduation": "128",
+            "tookCredits": "76",
+            "missingCommonRequiredCredits": "8",
+            "missingProfessionalRequiredCredits": "24",
+            "missingElectiveCredits": "20",
+            "missingCreditsSummary": "52"
+        },
+        "creditHisObjectList": [
+            {
+                "semNo": "108上",
+                "commonRequiredShouldTake": "9",
+                "commonRequiredTook": "9",
+                "professionalRequiredShouldTake": "9",
+                "professionalRequiredTook": "9",
+                "electiveShouldTake": "0",
+                "electiveTook": "2",
+                "totalCreditsShouldTake": "18",
+                "totalCreditsTook": "20"
+            },
+            {
+                "semNo": "108下",
+                "commonRequiredShouldTake": "7",
+                "commonRequiredTook": "7",
+                "professionalRequiredShouldTake": "12",
+                "professionalRequiredTook": "12",
+                "electiveShouldTake": "0",
+                "electiveTook": "0",
+                "totalCreditsShouldTake": "19",
+                "totalCreditsTook": "19"
+            },
+            {
+                "semNo": "109上",
+                "commonRequiredShouldTake": "2",
+                "commonRequiredTook": "2",
+                "professionalRequiredShouldTake": "12",
+                "professionalRequiredTook": "11",
+                "electiveShouldTake": "3",
+                "electiveTook": "7",
+                "totalCreditsShouldTake": "17",
+                "totalCreditsTook": "20"
+            },
+            {
+                "semNo": "109下",
+                "commonRequiredShouldTake": "2",
+                "commonRequiredTook": "2",
+                "professionalRequiredShouldTake": "9",
+                "professionalRequiredTook": "9",
+                "electiveShouldTake": "6",
+                "electiveTook": "6",
+                "totalCreditsShouldTake": "17",
+                "totalCreditsTook": "17"
+            },
+            {
+                "semNo": "110上",
+                "commonRequiredShouldTake": "2",
+                "commonRequiredTook": "0",
+                "professionalRequiredShouldTake": "8",
+                "professionalRequiredTook": "0",
+                "electiveShouldTake": "6",
+                "electiveTook": "0",
+                "totalCreditsShouldTake": "16",
+                "totalCreditsTook": "0"
+            },
+            {
+                "semNo": "110下",
+                "commonRequiredShouldTake": "2",
+                "commonRequiredTook": "0",
+                "professionalRequiredShouldTake": "9",
+                "professionalRequiredTook": "0",
+                "electiveShouldTake": "6",
+                "electiveTook": "0",
+                "totalCreditsShouldTake": "17",
+                "totalCreditsTook": "0"
+            },
+            {
+                "semNo": "111上",
+                "commonRequiredShouldTake": "2",
+                "commonRequiredTook": "0",
+                "professionalRequiredShouldTake": "6",
+                "professionalRequiredTook": "0",
+                "electiveShouldTake": "6",
+                "electiveTook": "0",
+                "totalCreditsShouldTake": "14",
+                "totalCreditsTook": "0"
+            },
+            {
+                "semNo": "111下",
+                "commonRequiredShouldTake": "2",
+                "commonRequiredTook": "0",
+                "professionalRequiredShouldTake": "0",
+                "professionalRequiredTook": "0",
+                "electiveShouldTake": "8",
+                "electiveTook": "0",
+                "totalCreditsShouldTake": "10",
+                "totalCreditsTook": "0"
+            }
+        ],
+        "creditHisSummaryObject": {
+            "semNo": "畢業學分",
+            "commonRequiredShouldTake": "28",
+            "commonRequiredTook": "20",
+            "professionalRequiredShouldTake": "65",
+            "professionalRequiredTook": "41",
+            "electiveShouldTake": "35",
+            "electiveTook": "15",
+            "totalCreditsShouldTake": "128",
+            "totalCreditsTook": "76"
+        },
+        "program": [
+            {
+                "key": "大數據學程",
+                "course": [
+                    {
+                        "name": "統計學",
+                        "credit": 2
+                    },
+                    {
+                        "name": "R語言統計",
+                        "credit": 2
+                    },
+                    {
+                        "name": "健康照護資料處理",
+                        "credit": 3
+                    },
+                    {
+                        "name": "Python程式設計",
+                        "credit": 3
+                    }
+                ],
+                "credit": 10
+            },
+            {
+                "key": "醫療資訊學程",
+                "course": [
+                    {
+                        "name": "醫療資訊概論",
+                        "credit": 3
+                    },
+                    {
+                        "name": "健康照護資料處理",
+                        "credit": 3
+                    }
+                ],
+                "credit": 6
+            }
+        ]
+    }
+}
